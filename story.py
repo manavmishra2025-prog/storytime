@@ -11,3 +11,15 @@
 # this is saksham
 
 # saksham showing too much cock gng...
+
+def seksomegay(gaystat):
+
+    if gaystat == True:
+        print('Seksome bhai gae')
+
+    else:
+        print('What ra sexcum')
+
+
+if __name__ == '__main__':
+    seksomegay(True)
